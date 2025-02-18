@@ -83,6 +83,7 @@ class Esercizio {
         G = RimuoviDuplicati(animali, G);  
         System.out.println("");
         Visualizza(animali, G);
+        
     }
 }
 
